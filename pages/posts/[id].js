@@ -34,6 +34,13 @@ export default function Post({ postData }) {
           <Date dateString={postData.date} />
         </div>
         <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
+        <section>
+          <script
+            async
+            data-uid="816c3705b9"
+            src="https://fierce-maker-108.ck.page/816c3705b9/index.js"
+          ></script>
+        </section>
       </article>
     </Layout>
   );

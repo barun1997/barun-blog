@@ -22,8 +22,16 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-         I am leading marketing and operations at Naamche, a Data Engineering lab based in US.
+          I am leading marketing and operations at Naamche, a Data Engineering
+          lab based in US.
         </p>
+      </section>
+      <section>
+        <script
+          async
+          data-uid="816c3705b9"
+          src="https://fierce-maker-108.ck.page/816c3705b9/index.js"
+        ></script>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
