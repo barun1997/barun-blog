@@ -21,10 +21,8 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Namaste!</p>
         <p>
-          I am an aspiring entrepreneur, and a Computer Engineer. You can call
-          me a bit of a football geek.
+         I am leading marketing and operations at Naamche, a Data Engineering lab based in US.
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
